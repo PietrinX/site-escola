@@ -1,6 +1,6 @@
-p{
-    color: rgb(17, 0, 248);
+body{
+    background-color: rgb(174, 231, 212);
 }
-img{
-    width: 300px;
+.intro{
+    padding-top: 20px;
 }
