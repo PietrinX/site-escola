@@ -1,6 +1,21 @@
 body{
-    background-color: rgb(174, 231, 212);
+    background-color: rgb(250, 250, 250);
 }
 .intro{
     padding-top: 20px;
+}
+
+intro{
+    display: block;
+}
+
+.imagem-1{
+    position: absolute;
+    width: 250px;
+}
+
+.modo-de-preparo{
+    width: 600px;
+    justify-content: center;
+    align-items: center;
 }
