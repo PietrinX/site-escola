@@ -10,8 +10,8 @@ intro{
 }
 
 .imagem-1{
-    position: absolute;
-    width: 250px;
+    position: relative;
+    width: 600px;
 }
 
 .modo-de-preparo{
